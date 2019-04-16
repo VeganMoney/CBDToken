@@ -1,0 +1,2 @@
+# CBDToken
+CBD Crypto Token
